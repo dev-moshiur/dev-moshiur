@@ -1,5 +1,3 @@
-###  👋, Hi, I am MD. Shamim Islam
-#### I am MERN Stack Developer
 ![I am MERN Stack Developer](https://i.ibb.co/93Hf02M/Black-Yellow-Bold-Bag-Fashion-Sale-Banner.png)
 
 I want to work in an organization that provides me with ample opportunities to enhance my skills and knowledge along with contributing to the growth of the organization and I prefer teamwork. My passion is to solve problems.
